@@ -32,3 +32,9 @@ build/
 # OS/editor files
 .DS_Store
 .vscode/
+
+# Generated cloud-init files
+user-data
+meta-data
+seed.iso
+build/
